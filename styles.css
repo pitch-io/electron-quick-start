@@ -1,0 +1,10 @@
+#hover-test {
+  background: #fce;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+#hover-test .item:hover {
+  background: red;
+}
